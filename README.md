@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**skipper-09/skipper-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Ahmad Nurul Musthopa👋
 
 
 - 🔭 I’m currently working on ...
