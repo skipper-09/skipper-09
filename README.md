@@ -1,12 +1,6 @@
 ### Hi there I'm Ahmad Nurul Musthopa👋
 
 
-
-curl \
-  -H "Accept: application/vnd.github+json" \ 
-  -H "Authorization: token <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>" \
-  https://api.github.com/user
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
