@@ -2,8 +2,7 @@
 
 
 **skipper-09/skipper-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Contributors Forks Stargazers Issues MIT License LinkedIn
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
