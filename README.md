@@ -1,6 +1,13 @@
 ### Hi there I'm Ahmad Nurul Musthopa👋
 
 
+<--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skipper-09)  -->
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skipper-09&show_icons=true)  
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,3 +17,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skipper-09)](https://github.com/anuraghazra/github-readme-stats)
